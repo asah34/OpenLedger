@@ -5,12 +5,7 @@
 
 #JOIN OFFICIAL CHANNEL :
 
-* [TELEGRAM CHANNEL](https://t.me/SHAREITHUB_COM)
-
-* [TELEGRAM GROUP CHAT](https://t.me/DISS_SHAREITHUB)
-
-* [YOUTUBE CHANNEL](https://www.youtube.com/@SHAREITHUB_COM)
-
+* [TELEGRAM CHANNEL](https://t.me/coinbreeze_web3)
 
 # TUTORIAL RUNNING BOT:
 
@@ -37,10 +32,10 @@ sudo apt install python3-pip
 
 4. Clone repository :
 ```
-git clone https://github.com/shareithub/openledger-bot.git
+git clone https://github.com/asah34/OpenLedger.git
 ```
 ```
-cd openledger-bot
+cd OpenLedger
 ```
 ```
 python3 -m venv openledger
